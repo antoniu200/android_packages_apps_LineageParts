@@ -132,7 +132,7 @@
 
     <!-- LiveDisplay -->
     <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
-    <string name="live_display_mode">Display mode</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Color temperature</string>
     <string name="live_display_color_temperature_summary">Day: <xliff:g id="day_temperature">%1$d</xliff:g>K  Night: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -146,7 +146,13 @@
     <string name="live_display_low_power_summary">Adjust display for lowest power consumption without degradation</string>
     <string name="live_display_enhance_color_title">Enhance colors</string>
     <string name="live_display_enhance_color_summary">Improve color vibrance of flesh tones, scenery, and other images</string>
-    <string name="live_display_color_profile_title">Color profile</string>
+    <string name="live_display_color_profile_title">Color gamut and contrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Professional mode</string>
+    <string name="live_display_color_profile_sony_professional_summary">Use sRGB color gamut for the authentic color appearance</string>
+    <string name="live_display_color_profile_sony_standard_title">Standard mode</string>
+    <string name="live_display_color_profile_sony_standard_summary">Use the brilliant color gamut of TRILUMINOS™ Display for mobile for the appearance of bright, vivid color effects</string>
+    <string name="live_display_color_profile_sony_vivid_title">Super-vivid mode</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Use an even more vivid color gamut for the appearance of bright color effects</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Accurate colors and bright whites</string>
     <string name="live_display_color_profile_natural_title">Natural</string>
@@ -171,8 +177,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Colors accurate to the DCI-P3 color space</string>
     <string name="live_display_reading_mode_title">Reading mode</string>
     <string name="live_display_reading_mode_summary">Grayscale mode for long-term reading</string>
-    <string name="color_calibration_title">Color calibration</string>
-    <string name="color_calibration_summary">Calibrate on-screen colors</string>
+    <string name="color_calibration_title">White balance</string>
+    <string name="color_calibration_summary">Adjust the white balance on your display</string>
     <string name="color_red_title">Red</string>
     <string name="color_green_title">Green</string>
     <string name="color_blue_title">Blue</string>

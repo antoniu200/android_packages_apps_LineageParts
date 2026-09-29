@@ -100,7 +100,7 @@
     <string name="led_notification_text">LED engedélyezve a beállítások által</string>
     <string name="notification_light_add_apps_empty_summary">Alkalmazásonkénti vezérléshez aktiválja ezt: \"%1$s\", majd nyomja meg a \'Hozzáadás\'-t</string>
     <string name="live_display_summary">Optimalizálja a képernyőt a napszaknak és a fényviszonyoknak megfelelően, javítva az olvashatóságot és csökkentve a szemek terhelését</string>
-    <string name="live_display_mode">Képernyő mód</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Színhőmérséklet</string>
     <string name="live_display_color_temperature_summary">Nappal:<xliff:g id="day_temperature">%1$d</xliff:g>K Éjszaka:<xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Kijelző beállítása a legkisebb energiafogyasztásra, minőségromlás nélkül</string>
     <string name="live_display_enhance_color_title">Színek élénkítése</string>
     <string name="live_display_enhance_color_summary">Bőrszín tónusainak, tájképek, és egyéb képek színdinamikájának javítása</string>
-    <string name="live_display_color_profile_title">Színprofil</string>
+    <string name="live_display_color_profile_title">Színtartomány és kontraszt</string>
+    <string name="live_display_color_profile_sony_professional_title">Professzionális üzemmód</string>
+    <string name="live_display_color_profile_sony_professional_summary">sRGB színtartomány használata a valósághű színmegjelenítéshez</string>
+    <string name="live_display_color_profile_sony_standard_title">Szokásos üzemmód</string>
+    <string name="live_display_color_profile_sony_standard_summary">A TRILUMINOS™ Display for mobile pazar színtartományának használata élénk, ragyogó színhatások megjelenítéséhez</string>
+    <string name="live_display_color_profile_sony_vivid_title">Szuperélénk mód</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Élénkebb színtartomány használata a ragyogó színhatások megjelenítéséhez</string>
     <string name="live_display_color_profile_standard_title">Általános</string>
     <string name="live_display_color_profile_standard_summary">Pontos színek és fényes fehér</string>
     <string name="live_display_color_profile_natural_title">Természetes</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Színek a DCI-P3 színtérhez igazítva</string>
     <string name="live_display_reading_mode_title">Olvasómód</string>
     <string name="live_display_reading_mode_summary">Szemkímélő (szürkeárnyalatos) mód a hosszabb olvasásokhoz</string>
-    <string name="color_calibration_title">Színek kalibrálása</string>
-    <string name="color_calibration_summary">Képernyőn megjelenő színek kalibrálása</string>
+    <string name="color_calibration_title">Fehéregyensúly</string>
+    <string name="color_calibration_summary">A fehéregyensúly beállítása a kijelzőn</string>
     <string name="color_red_title">Vörös</string>
     <string name="color_green_title">Zöld</string>
     <string name="color_blue_title">Kék</string>

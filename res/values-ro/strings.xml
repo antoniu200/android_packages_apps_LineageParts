@@ -99,8 +99,8 @@
     <string name="led_notification_title">Setări lumină</string>
     <string name="led_notification_text">Lumină LED activată de setări</string>
     <string name="notification_light_add_apps_empty_summary">Pentru a adăuga control per aplicație, activați \'%1$s\' și apăsați \'Adăugați\'</string>
-    <string name="live_display_summary">Optimizați ecranul bazat pe timpul zilei şi condiţiile mediului ambient pentru a îmbunătăţi lizibilitatea şi a reduce oboseala ochilor</string>
-    <string name="live_display_mode">Mod de afișare</string>
+    <string name="live_display_summary">Optimizați ecranul în funcție de timpul zilei şi de condiţiile mediului ambiant pentru a îmbunătăţi lizibilitatea şi a reduce oboseala ochilor</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Temperatura culorii</string>
     <string name="live_display_color_temperature_summary">Zi: <xliff:g id="day_temperature">%1$d</xliff:g>K Noapte: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Reglează afişajul pentru cel mai mic consum de energie fără degradare</string>
     <string name="live_display_enhance_color_title">Sporește culorile</string>
     <string name="live_display_enhance_color_summary">Îmbunătățește vibranța culorilor pentru tonuri, peisaje și alte imagini</string>
-    <string name="live_display_color_profile_title">Profilul culorii</string>
+    <string name="live_display_color_profile_title">Gamă de culori şi contrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Mod profesional</string>
+    <string name="live_display_color_profile_sony_professional_summary">Utilizaţi gama de culori sRGB pentru reproducerea autentică a culorilor</string>
+    <string name="live_display_color_profile_sony_standard_title">Mod standard</string>
+    <string name="live_display_color_profile_sony_standard_summary">Utilizaţi strălucitoarea gamă de culori TRILUMINOS™ Display for mobile pentru reproducerea unor culori luminoase şi vii</string>
+    <string name="live_display_color_profile_sony_vivid_title">Mod foarte intens</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Utilizaţi o gamă de culori şi mai vii pentru reproducerea unor culori strălucitoare</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Culori precise și alb luminos</string>
     <string name="live_display_color_profile_natural_title">Natural</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Culorile se calibrează după spațiul de culori DCI-P3</string>
     <string name="live_display_reading_mode_title">Mod lectură</string>
     <string name="live_display_reading_mode_summary">Mod cu tonuri gri pentru cititul pe termen lung</string>
-    <string name="color_calibration_title">Calibrare culoare</string>
-    <string name="color_calibration_summary">Calibrați culori pe ecran</string>
+    <string name="color_calibration_title">Compensare alb</string>
+    <string name="color_calibration_summary">Reglaţi compensarea de alb pe afişaj</string>
     <string name="color_red_title">Roșu</string>
     <string name="color_green_title">Verde</string>
     <string name="color_blue_title">Albastru</string>

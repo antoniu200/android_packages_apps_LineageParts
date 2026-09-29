@@ -85,7 +85,7 @@
     <string name="led_notification_title">Roghainnean an t-solais</string>
     <string name="led_notification_text">Tha solas LED an comas a-rèir nan roghainnean</string>
     <string name="live_display_summary">Pisich an sgrìn agad a-rèir àm dhen latha is na h-àrainneachd ach am bi cùisean nas fhasa leughadh is nas lugha a sgithear sùla ort</string>
-    <string name="live_display_mode">Modh an taisbeanaidh</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Teothachd an datha</string>
     <string name="live_display_color_temperature_summary">Latha: <xliff:g id="day_temperature">%1$d</xliff:g>K  Oidhche: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -99,7 +99,7 @@
     <string name="live_display_low_power_summary">Cuir gleus air an sgrìn airson caomhnadh cumhachd as motha gun chrìonadh</string>
     <string name="live_display_enhance_color_title">Leasaich na dathan</string>
     <string name="live_display_enhance_color_summary">Thoir piseach air beòthad dath craicinn, sheallaidhean is dealbhan eile</string>
-    <string name="live_display_color_profile_title">Pròifil dhathan</string>
+
     <string name="live_display_color_profile_standard_title">Stannardach</string>
     <string name="live_display_color_profile_standard_summary">Dathan pongail is geal soilleir</string>
     <string name="live_display_color_profile_natural_title">Nàdarra</string>
@@ -124,8 +124,7 @@
     <string name="live_display_color_profile_dci_p3_summary">Dathan pongail a-rèir dhathan DCI-P3</string>
     <string name="live_display_reading_mode_title">Modh leughaidh</string>
     <string name="live_display_reading_mode_summary">Modh liath-sgèile a chùm leughaidh fhaide</string>
-    <string name="color_calibration_title">Cailbhreachadh nan dathan</string>
-    <string name="color_calibration_summary">Cailbhrich na dathan air an sgrìn</string>
+
     <string name="color_red_title">Dearg</string>
     <string name="color_green_title">Uaine</string>
     <string name="color_blue_title">Gorm</string>

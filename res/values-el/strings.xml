@@ -100,7 +100,7 @@
     <string name="led_notification_text">Το LED ενεργοποιήθηκε από τις ρυθμίσεις</string>
     <string name="notification_light_add_apps_empty_summary">Για να προσθέσετε έλεγχο ανά εφαρμογή, ενεργοποιήστε το \'%1$s\' και πατήστε \'Προσθήκη\'</string>
     <string name="live_display_summary">Βελτιστοποίηση της οθόνης σας με βάση την ώρα της ημέρας και τις συνθήκες περιβάλλοντος για βελτίωση της αναγνωσιμότητας και μείωση της καταπόνησης των ματιών</string>
-    <string name="live_display_mode">Λειτουργία οθόνης</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Θερμοκρασία χρώματος</string>
     <string name="live_display_color_temperature_summary">Ημέρα: <xliff:g id="day_temperature">%1$d</xliff:g>K  Νύχτα: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Προσαρμογή της οθόνης για χαμηλότερη κατανάλωση ισχύος χωρίς υποβάθμιση των χρωμάτων</string>
     <string name="live_display_enhance_color_title">Βελτίωση χρωμάτων</string>
     <string name="live_display_enhance_color_summary">Βελτίωση έντασης χρωμάτων επιδερμίδας, τοπίων, καθώς και άλλων εικόνων</string>
-    <string name="live_display_color_profile_title">Προφίλ χρωμάτων</string>
+    <string name="live_display_color_profile_title">Γκάμα χρωμάτ. και αντίθεση</string>
+    <string name="live_display_color_profile_sony_professional_title">Επαγγελματική λειτουργία</string>
+    <string name="live_display_color_profile_sony_professional_summary">Χρησιμοποιήστε τη γκάμα χρωμάτων sRGB για την αυθεντική εμφάνιση των χρωμάτων</string>
+    <string name="live_display_color_profile_sony_standard_title">Τυπική λειτουργία</string>
+    <string name="live_display_color_profile_sony_standard_summary">Χρησιμοποιήστε τη γκάμα φωτεινών χρωμάτων του TRILUMINOS™ Display for mobile για εμφάνιση φωτεινών, ζωντανών χρωματικών εφέ</string>
+    <string name="live_display_color_profile_sony_vivid_title">Πολύ ζωντανή λειτουργία</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Χρησιμοποιήστε μια ακόμα πιο ζωντανή γκάμα χρωμάτων για εμφάνιση φωτεινών χρωματικών εφέ</string>
     <string name="live_display_color_profile_standard_title">Κανονικό</string>
     <string name="live_display_color_profile_standard_summary">Ακριβή χρώματα και φωτεινά λευκά</string>
     <string name="live_display_color_profile_natural_title">Φυσικό</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Απόδοση χρωμάτων με ακρίβεια στον χρωματικό χώρο DCI-P3</string>
     <string name="live_display_reading_mode_title">Λειτουργία ανάγνωσης</string>
     <string name="live_display_reading_mode_summary">Λειτουργία κλίμακας του γκρι για πολύωρη ανάγνωση</string>
-    <string name="color_calibration_title">Βελτίωση χρωμάτων</string>
-    <string name="color_calibration_summary">Βελτίωση των χρωμάτων της οθόνης</string>
+    <string name="color_calibration_title">Ισορροπία λευκού</string>
+    <string name="color_calibration_summary">Προσαρμόστε την ισορροπία λευκού στην οθόνη σας</string>
     <string name="color_red_title">Κόκκινο</string>
     <string name="color_green_title">Πράσινο</string>
     <string name="color_blue_title">Μπλε</string>

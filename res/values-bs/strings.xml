@@ -17,4 +17,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="trust_restrict_usb_title">Ograniči USB</string>
+    <string name="live_display_mode">Assertive Display®</string>
+    <string name="live_display_color_profile_title">Gama boja i kontrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Profesionalni način rada</string>
+    <string name="live_display_color_profile_sony_professional_summary">Koristite gamu boja sRGB za autentični prikaz boja</string>
+    <string name="live_display_color_profile_sony_standard_title">Standardni način rada</string>
+    <string name="live_display_color_profile_sony_standard_summary">Koristite blistavu gamu boja funkcije TRILUMINOS™ Display for mobile za prikaz jarkih i živopisnih efekata boje</string>
+    <string name="live_display_color_profile_sony_vivid_title">Super-živopisni način rada</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Koristite još živopisniju gamu boja za prikaz jarkih efekata boje</string>
+    <string name="color_calibration_title">Balans bijelog</string>
+    <string name="color_calibration_summary">Prilagodite balans bijelog na vašem prikazu</string>
 </resources>

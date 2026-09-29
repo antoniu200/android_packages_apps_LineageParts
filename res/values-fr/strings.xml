@@ -100,7 +100,7 @@
     <string name="led_notification_text">LED activée par les paramètres</string>
     <string name="notification_light_add_apps_empty_summary">Pour ajouter le contrôle par application, activez \'%1$s\' et appuyez sur \'Ajouter\'</string>
     <string name="live_display_summary">Optimiser votre écran en fonction de l\'heure et des conditions ambiantes pour améliorer la lisibilité et réduire la fatigue oculaire</string>
-    <string name="live_display_mode">Mode d\'affichage</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Température de la couleur</string>
     <string name="live_display_color_temperature_summary">Jour : <xliff:g id="day_temperature">%1$d</xliff:g>K  Nuit : <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Régler l\'affichage pour une plus faible consommation sans dégradation</string>
     <string name="live_display_enhance_color_title">Améliorer les couleurs</string>
     <string name="live_display_enhance_color_summary">Améliorer l\'éclat des couleurs des tons chair, des paysages et d\'autres images</string>
-    <string name="live_display_color_profile_title">Profil de couleur</string>
+    <string name="live_display_color_profile_title">Gamme couleurs et contraste</string>
+    <string name="live_display_color_profile_sony_professional_title">Mode professionnel</string>
+    <string name="live_display_color_profile_sony_professional_summary">Utilise la gamme de couleurs sRGB pour ses couleurs authentiques</string>
+    <string name="live_display_color_profile_sony_standard_title">Mode standard</string>
+    <string name="live_display_color_profile_sony_standard_summary">Utilise la gamme de couleurs brillantes de TRILUMINOS™ Display for mobile pour l\'effet de ses couleurs vives et riches</string>
+    <string name="live_display_color_profile_sony_vivid_title">Mode très vif</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Utilise une gamme de couleurs encore plus vives pour l\'effet de ses couleurs éclatantes</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Couleurs précises et blancs éclatants</string>
     <string name="live_display_color_profile_natural_title">Naturel</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Couleurs correspondant exactement à l’espace colorimétrique DCI-P3</string>
     <string name="live_display_reading_mode_title">Mode Lecture</string>
     <string name="live_display_reading_mode_summary">Affichage en niveaux de gris pour les périodes de lecture prolongées</string>
-    <string name="color_calibration_title">Calibrage des couleurs</string>
-    <string name="color_calibration_summary">Calibrer les couleurs de l\'écran</string>
+    <string name="color_calibration_title">Balance des blancs</string>
+    <string name="color_calibration_summary">Ajuster la balance des blancs sur votre écran</string>
     <string name="color_red_title">Rouge</string>
     <string name="color_green_title">Vert</string>
     <string name="color_blue_title">Bleu</string>

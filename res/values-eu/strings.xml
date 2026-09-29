@@ -81,7 +81,7 @@
     <string name="led_notification_title">Argien ezarpenak</string>
     <string name="led_notification_text">LED argia ezarpenetan aktibatuta</string>
     <string name="live_display_summary">Optimizatu zure pantaila eguneko orduaren eta inguruneko baldintzen arabera irakurgarritasuna hobetzeko eta begien nekea gutxiagotzeko</string>
-    <string name="live_display_mode">Pantaila modua</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Kolore-tenperatura</string>
     <string name="live_display_color_temperature_summary">Egunez: <xliff:g id="day_temperature">%1$d</xliff:g>K  Gauez: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -93,7 +93,13 @@
     <string name="live_display_low_power_summary">Doitu pantaila bateria kontsumoa gutxiagotzeko kalitate galerarik gabe</string>
     <string name="live_display_enhance_color_title">Hobetu koloreak</string>
     <string name="live_display_enhance_color_summary">Hobetu kolore bizitasuna azal tonuetan, paisaietan eta bestelako irudietan</string>
-    <string name="live_display_color_profile_title">Kolore profila</string>
+    <string name="live_display_color_profile_title">Kolore sorta eta kontrastea</string>
+    <string name="live_display_color_profile_sony_professional_title">Modu profesionala</string>
+    <string name="live_display_color_profile_sony_professional_summary">Erabili sRGB kolore sorta, koloreen benetako itxura lortzeko</string>
+    <string name="live_display_color_profile_sony_standard_title">Modu estandarra</string>
+    <string name="live_display_color_profile_sony_standard_summary">Erabili TRILUMINOS™ Display for mobile aplikazioak eskaintzen duen kolore distiratsuen sorta, efektu argi eta biziak lortzeko</string>
+    <string name="live_display_color_profile_sony_vivid_title">Bizi-bizi modua</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Erabili kolore sorta are biziagoa, efektu argiak lortzeko</string>
     <string name="live_display_color_profile_standard_title">Estandarra</string>
     <string name="live_display_color_profile_standard_summary">Kolore zehatzak eta zuri biziak</string>
     <string name="live_display_color_profile_natural_title">Naturala</string>
@@ -118,8 +124,8 @@
     <string name="live_display_color_profile_dci_p3_summary">DCI-P3 kolore espazioarekiko zehatzak diren koloreak</string>
     <string name="live_display_reading_mode_title">Irakurketa modua</string>
     <string name="live_display_reading_mode_summary">Irakurketa luzeetarako modua gris eskalan</string>
-    <string name="color_calibration_title">Kolore kalibrazioa</string>
-    <string name="color_calibration_summary">Kalibratu pantailako koloreak</string>
+    <string name="color_calibration_title">Zurien balantzea</string>
+    <string name="color_calibration_summary">Doitu pantailako zurien balantzea</string>
     <string name="color_red_title">Gorria</string>
     <string name="color_green_title">Berdea</string>
     <string name="color_blue_title">Urdina</string>

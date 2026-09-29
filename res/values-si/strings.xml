@@ -21,4 +21,5 @@
     <string name="profiles_settings_enable_title">පැතිකඩ සබල කරන්න</string>
     <string name="profiles_create_new">නව පැතිකඩ සාදන්න</string>
     <string name="charging_sounds_enable_title">ආරෝපණ ශබ්ද සබල කරන්න</string>
+    <string name="live_display_mode">Assertive Display®</string>
 </resources>

@@ -96,7 +96,7 @@
     <string name="led_notification_text">Golau LED wedi\'i alluogi gan osodiadau</string>
     <string name="notification_light_add_apps_empty_summary">I ychwanegu rheolaeth ap, rho \'%1$s\' ar waith a phwyso \'Ychwanegu\'</string>
     <string name="live_display_summary">Addasa dy sgrin i\'r gorau yn dibynnu ar yr amser o\'r dydd ac amgylchiadau amgylchynol fel ei bod yn haws darllen a bod llai o straen ar y llygaid.</string>
-    <string name="live_display_mode">Modd dangosydd</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Tymheredd lliwiau</string>
     <string name="live_display_color_temperature_summary">Dydd: <xliff:g id="day_temperature">%1$d</xliff:g>K  Nos: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -110,7 +110,7 @@
     <string name="live_display_low_power_summary">Addasu\'r dangosydd i ddefnyddio\'r maint isaf o bŵer heb ddirywiad</string>
     <string name="live_display_enhance_color_title">Gwella lliwiau</string>
     <string name="live_display_enhance_color_summary">Gwella lliwiau croen, golygfeydd, a delweddau eraill</string>
-    <string name="live_display_color_profile_title">Proffil lliwiau</string>
+
     <string name="live_display_color_profile_standard_title">Safonol</string>
     <string name="live_display_color_profile_standard_summary">Lliwiau cywir a gwyn llachar</string>
     <string name="live_display_color_profile_natural_title">Naturiol</string>
@@ -135,8 +135,7 @@
     <string name="live_display_color_profile_dci_p3_summary">Lliwiau yn gywir i\'r gofod lliw DCI-P3</string>
     <string name="live_display_reading_mode_title">Modd darllen</string>
     <string name="live_display_reading_mode_summary">Modd graddfa lwyd ar gyfer darllen am gyfnodau hir</string>
-    <string name="color_calibration_title">Graddnodiad lliw</string>
-    <string name="color_calibration_summary">Graddnodi lliwiau ar y sgrin</string>
+
     <string name="color_red_title">Coch</string>
     <string name="color_green_title">Gwyrdd</string>
     <string name="color_blue_title">Glas</string>

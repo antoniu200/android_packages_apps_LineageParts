@@ -100,7 +100,7 @@
     <string name="led_notification_text">LED-lys aktiveret via indstillinger</string>
     <string name="notification_light_add_apps_empty_summary">For at tilføje per app kontrol, aktiver \'%1$s\' og tryk \'Tilføj\'</string>
     <string name="live_display_summary">Optimér din skærm, baseret på tid på dagen, og omkringværende forhold, for at forbedre læsbarhed og reducere øjen-anstrengelse</string>
-    <string name="live_display_mode">Visningstilstand</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Farvetemperatur</string>
     <string name="live_display_color_temperature_summary">Dag: <xliff:g id="day_temperature">%1$d</xliff:g>K Nat: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Justér skærmen til laveste strømforbrug uden forringelse</string>
     <string name="live_display_enhance_color_title">Forbedr farver</string>
     <string name="live_display_enhance_color_summary">Forbedr farven for hudfarve, landskab og andre billeder</string>
-    <string name="live_display_color_profile_title">Farveprofil</string>
+    <string name="live_display_color_profile_title">Farveskala og kontrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Professionel tilstand</string>
+    <string name="live_display_color_profile_sony_professional_summary">Brug sRGB-farveskalaen for at få autentiske farver</string>
+    <string name="live_display_color_profile_sony_standard_title">Standardtilstand</string>
+    <string name="live_display_color_profile_sony_standard_summary">Brug den fantastiske farveskala for TRILUMINOS™ Display for mobile for at få lyse, levende farveeffekter</string>
+    <string name="live_display_color_profile_sony_vivid_title">Superlevende tilstand</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Brug en endnu mere levende farveskala for at få lyse farveeffekter</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Præcise farver og lys hvidnuancer</string>
     <string name="live_display_color_profile_natural_title">Naturlig</string>
@@ -137,8 +143,8 @@
     <string name="live_display_color_profile_srgb_summary">Farver, som matcher sRGB-farverummet</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
     <string name="live_display_reading_mode_title">Læsetilstand</string>
-    <string name="color_calibration_title">Farvekalibrering</string>
-    <string name="color_calibration_summary">Kalibrér skærmfarver</string>
+    <string name="color_calibration_title">Hvidbalance</string>
+    <string name="color_calibration_summary">Juster displayets hvidbalance</string>
     <string name="color_red_title">Rød</string>
     <string name="color_green_title">Grøn</string>
     <string name="color_blue_title">Blå</string>

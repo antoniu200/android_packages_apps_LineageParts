@@ -81,7 +81,7 @@
     <string name="led_notification_title">Подешавања индикатора</string>
     <string name="led_notification_text">LED светло је омогућено у подешавањима</string>
     <string name="live_display_summary">Прилагодите екран на основу доба дана и осветљености, како би се повећала читљивост и смањило напрезање очију.</string>
-    <string name="live_display_mode">Режим приказа</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Температура боје</string>
     <string name="live_display_color_temperature_summary">Дан: <xliff:g id="day_temperature">%1$d</xliff:g> K, ноћ: <xliff:g id="night_temperature">%2$d</xliff:g> K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g> K</string>
@@ -93,7 +93,13 @@
     <string name="live_display_low_power_summary">Прилагодите екран за најнижу потрошњу енергије без погоршања квалитета.</string>
     <string name="live_display_enhance_color_title">Побољшање боја</string>
     <string name="live_display_enhance_color_summary">Побољшајте живост боја за нијансе коже, пејзаже и друге слике.</string>
-    <string name="live_display_color_profile_title">Профил боја</string>
+    <string name="live_display_color_profile_title">Opseg i kontrast boja</string>
+    <string name="live_display_color_profile_sony_professional_title">Profesionalni režim</string>
+    <string name="live_display_color_profile_sony_professional_summary">Koristite sRGB opseg boja za autentični izgled boja</string>
+    <string name="live_display_color_profile_sony_standard_title">Standardni režim</string>
+    <string name="live_display_color_profile_sony_standard_summary">Koristite sjajan opseg boja funkcije TRILUMINOS™ Display for mobile da biste postigli svetle i jarke efekte boja</string>
+    <string name="live_display_color_profile_sony_vivid_title">Super-živi režim</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Koristite još živopisniji opseg boja kako biste postigli svetle efekte boja</string>
     <string name="live_display_color_profile_standard_title">Стандардни</string>
     <string name="live_display_color_profile_standard_summary">Тачне боје и високи контраст.</string>
     <string name="live_display_color_profile_natural_title">Природни</string>
@@ -118,8 +124,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Боје које одговарају простору боја DCI-P3.</string>
     <string name="live_display_reading_mode_title">Режим читања</string>
     <string name="live_display_reading_mode_summary">Режим сивих тонова за дуготрајно читање</string>
-    <string name="color_calibration_title">Калибрација боја</string>
-    <string name="color_calibration_summary">Калибрација боја екрана</string>
+    <string name="color_calibration_title">Balans belog</string>
+    <string name="color_calibration_summary">Prilagodite balans belog na vašem displeju</string>
     <string name="color_red_title">Црвена</string>
     <string name="color_green_title">Зелена</string>
     <string name="color_blue_title">Плава</string>

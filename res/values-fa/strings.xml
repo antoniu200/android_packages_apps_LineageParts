@@ -100,7 +100,7 @@
     <string name="led_notification_text">چراغ اعلان توسط تنظیمات فعال شد</string>
     <string name="notification_light_add_apps_empty_summary">برای اضافه کردن کنترل هر برنامه، \'%1$s\' را فعال کنید و \'اضافه کردن\' را فشار دهید</string>
     <string name="live_display_summary">بهینه‌سازی صفحه‌نمایش بر اساس زمانِ روز و شرایط محیطی برای افزایش خوانایی و کاهش خستگی چشم</string>
-    <string name="live_display_mode">حالت نمایش</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">دمای رنگ</string>
     <string name="live_display_color_temperature_summary">روز:<xliff:g id="day_temperature">%1$Id</xliff:g>K شب:<xliff:g id="night_temperature">%2$Id</xliff:g>K</string>
     <string name="live_display_color_temperature_label">‫<xliff:g id="degrees">%1$Id</xliff:g>کلوین</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">تنظیم صفحه برای مصرف کمترین نیرو بدون کاهش کارایی</string>
     <string name="live_display_enhance_color_title">بهبود رنگ‌ها</string>
     <string name="live_display_enhance_color_summary">بهبود طراوت رنگ پوست بدن، مناظر و تصاویر دیگر</string>
-    <string name="live_display_color_profile_title">نمایهٔ رنگ</string>
+    <string name="live_display_color_profile_title">وسعت رنگ و کنتراست</string>
+    <string name="live_display_color_profile_sony_professional_title">حالت حرفه‌ای</string>
+    <string name="live_display_color_profile_sony_professional_summary">از وسعت رنگ sRGB برای ظاهر رنگ دقیق‌تر استفاده کنید</string>
+    <string name="live_display_color_profile_sony_standard_title">حالت استاندارد</string>
+    <string name="live_display_color_profile_sony_standard_summary">از وسعت رنگ شفاف TRILUMINOS™ Display for mobile برای ظاهر جلوه‌های رنگ‌های روشن و زنده استفاده کنید.</string>
+    <string name="live_display_color_profile_sony_vivid_title">حالت فوق شفاف</string>
+    <string name="live_display_color_profile_sony_vivid_summary">حتی از وسعت رنگ زنده‌تر برای ظاهر جلوه‌های رنگ روشن استفاده کنید</string>
     <string name="live_display_color_profile_standard_title">استاندارد</string>
     <string name="live_display_color_profile_standard_summary">رنگ‌های دقیق و سفید روشن</string>
     <string name="live_display_color_profile_natural_title">طبیعی</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">رنگ‌های مطابق با فضای رنگ DCI-P3</string>
     <string name="live_display_reading_mode_title">حالت مطالعه</string>
     <string name="live_display_reading_mode_summary">حالت سیاه و سفید برای مطالعه طولانی</string>
-    <string name="color_calibration_title">تنظیم رنگ</string>
-    <string name="color_calibration_summary">تنظیم رنگ صفحه نمایش</string>
+    <string name="color_calibration_title">تنظیم نور سفید</string>
+    <string name="color_calibration_summary">تنظیم نور سفید صفحه نمایش</string>
     <string name="color_red_title">قرمز</string>
     <string name="color_green_title">سبز</string>
     <string name="color_blue_title">آبی</string>

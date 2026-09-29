@@ -81,7 +81,7 @@
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g></string>
     <string name="live_display_day">Ass</string>
     <string name="live_display_night">Iḍ</string>
-    <string name="live_display_color_profile_title">Ini n umaɣnu</string>
+
     <string name="live_display_color_profile_standard_title">Alugen</string>
     <string name="live_display_color_profile_natural_title">Agaman</string>
     <string name="live_display_color_profile_dynamic_title">Asmussan</string>
@@ -322,4 +322,5 @@
     <string name="trust_onboarding_done">Gziɣ</string>
     <string name="sms_security_check_limit_title">Talast n yizen n SMS</string>
     <string name="sms_security_check_limit_always_confirm">Sentem yal tikkelt</string>
+    <string name="live_display_mode">Assertive Display®</string>
 </resources>

@@ -91,7 +91,7 @@
     <string name="led_notification_text">LED-ljós virkjað í stillingum</string>
     <string name="notification_light_add_apps_empty_summary">Til að virkja stýringu á hvert forrit, virkjaðu \'%1$s\' og ýttu á \'Bæta við\'</string>
     <string name="live_display_summary">Bestaðu skjáinn þinn eftir tíma dags og umhverfisskilyrðum til að bæta læsileik og minnka álag á augun</string>
-    <string name="live_display_mode">Birtingarhamur</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Hitastig litar</string>
     <string name="live_display_color_temperature_summary">Dagur: <xliff:g id="day_temperature">%1$d</xliff:g>K  Nótt: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -105,7 +105,13 @@
     <string name="live_display_low_power_summary">Aðlaga skjá fyrir minnstu orkunotkun án skerðingar afkasta</string>
     <string name="live_display_enhance_color_title">Bæta liti</string>
     <string name="live_display_enhance_color_summary">Bæta skærleika lita í húðtónum, landslagi og öðrum myndum</string>
-    <string name="live_display_color_profile_title">Litasnið</string>
+    <string name="live_display_color_profile_title">Litaskali og birtuskil</string>
+    <string name="live_display_color_profile_sony_professional_title">Háttur fyrir fagmenn</string>
+    <string name="live_display_color_profile_sony_professional_summary">Notaðu sRGB litaskala til að sýna raunverulegt útlit</string>
+    <string name="live_display_color_profile_sony_standard_title">Staðalháttur</string>
+    <string name="live_display_color_profile_sony_standard_summary">Notaðu bjarta litaskalann í TRILUMINOS™ Display for mobile til að birta björt og sterk litaafbrigði.</string>
+    <string name="live_display_color_profile_sony_vivid_title">Ofurskýr stilling</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Notaður enn skærari litaskala til að birta sterk litbrigði</string>
     <string name="live_display_color_profile_standard_title">Staðlað</string>
     <string name="live_display_color_profile_standard_summary">Nákvæmir litir og bjartir hvítir</string>
     <string name="live_display_color_profile_natural_title">Náttúra</string>
@@ -130,8 +136,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Litir eru nákvæmir miðað við DCI-P3 litarýmd</string>
     <string name="live_display_reading_mode_title">Leshamur</string>
     <string name="live_display_reading_mode_summary">Grátónahamur fyrir lestur í lengri tíma</string>
-    <string name="color_calibration_title">Litkvörðun</string>
-    <string name="color_calibration_summary">Kvarða liti á skjá</string>
+    <string name="color_calibration_title">Hvítjöfnun (ljósgjafi)</string>
+    <string name="color_calibration_summary">Stilla hvítjöfnun (ljósgjafa) á skjánum þínum</string>
     <string name="color_red_title">Rautt</string>
     <string name="color_green_title">Grænt</string>
     <string name="color_blue_title">Blátt</string>

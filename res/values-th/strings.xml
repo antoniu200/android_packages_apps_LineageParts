@@ -82,7 +82,7 @@
     <string name="led_notification_title">ตั้งค่าไฟแจ้งเตือน</string>
     <string name="led_notification_text">เปิดใช้งาน LED จากการตั้งค่า</string>
     <string name="live_display_summary">ปรับหน้าความสว่างหน้าจอตามเวลาและแสงโดยรอบเพื่อทำให้อ่านได้ง่ายขึ้นและลดอาการปวดตา</string>
-    <string name="live_display_mode">โหมดการแสดงผล</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">อุณหภูมิสี</string>
     <string name="live_display_color_temperature_summary">กลางวัน: <xliff:g id="day_temperature">%1$d</xliff:g>K  กลางคืน: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -95,7 +95,13 @@
     <string name="live_display_low_power_summary">ปรับการแสดงผลให้ใช้พลังงานน้อยที่สุดโดยที่ไม่ลดประสิทธิภาพ</string>
     <string name="live_display_enhance_color_title">เพิ่มประสิทธิภาพสี</string>
     <string name="live_display_enhance_color_summary">ปรับปรุงความมีชีวิตชีวาของสีโดยเน้นโทนสี ภาพทิวทัศน์ และภาพอื่น ๆ</string>
-    <string name="live_display_color_profile_title">โปรไฟล์สี</string>
+    <string name="live_display_color_profile_title">ขอบเขตสีและคอนทราสต์</string>
+    <string name="live_display_color_profile_sony_professional_title">โหมดมืออาชีพ</string>
+    <string name="live_display_color_profile_sony_professional_summary">ใช้ขอบเขตสี sRGB เพื่อให้ได้สีสมจริง</string>
+    <string name="live_display_color_profile_sony_standard_title">โหมดมาตรฐาน</string>
+    <string name="live_display_color_profile_sony_standard_summary">ใช้ขอบเขตสีสดของ TRILUMINOS™ Display for mobile เพื่อให้ได้เอฟเฟกต์สีสดสว่าง</string>
+    <string name="live_display_color_profile_sony_vivid_title">โหมดภาพสีสันจัดจ้าน</string>
+    <string name="live_display_color_profile_sony_vivid_summary">ใช้ขอบเขตสีที่สดกว่าเดิมเพื่อให้ได้เอฟเฟกต์สีสว่าง</string>
     <string name="live_display_color_profile_standard_title">มาตรฐาน</string>
     <string name="live_display_color_profile_standard_summary">สีที่ถูกต้องและขาวสว่าง</string>
     <string name="live_display_color_profile_natural_title">ธรรมชาติ</string>
@@ -120,8 +126,8 @@
     <string name="live_display_color_profile_dci_p3_summary">สีที่ถูกต้องกับระบบพื้นที่สีของ DCI-P3</string>
     <string name="live_display_reading_mode_title">โหมดการอ่าน</string>
     <string name="live_display_reading_mode_summary">โหมดสีเทาสำหรับการอ่านระยะยาว</string>
-    <string name="color_calibration_title">การปรับเทียบสี</string>
-    <string name="color_calibration_summary">ปรับเทียบสีบนจอ</string>
+    <string name="color_calibration_title">อุณหภูมิสี</string>
+    <string name="color_calibration_summary">ปรับอุณหภูมิสีของจอแสดงผล</string>
     <string name="color_red_title">แดง</string>
     <string name="color_green_title">เขียว</string>
     <string name="color_blue_title">น้ำเงิน</string>

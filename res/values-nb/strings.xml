@@ -77,7 +77,7 @@
     <string name="led_notification_title">Lysinnstillinger</string>
     <string name="led_notification_text">LED-lys aktivert av innstillingene</string>
     <string name="live_display_summary">Optimalisere skjermen basert på tidspunkt av dagen og omgivelsesforhold for å forbedre lesbarhet og redusere belastningen på øynene</string>
-    <string name="live_display_mode">Visningsmodus</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Fargetemperatur</string>
     <string name="live_display_color_temperature_summary">Dag: <xliff:g id="day_temperature">%1$d</xliff:g>K  Natt: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -89,7 +89,13 @@
     <string name="live_display_low_power_summary">Justere visningen for laveste strømforbruk uten degradering</string>
     <string name="live_display_enhance_color_title">Forbedre farger</string>
     <string name="live_display_enhance_color_summary">Forbedre fargefullhet på hudfarger, natur og andre bilder</string>
-    <string name="live_display_color_profile_title">Fargeprofil</string>
+    <string name="live_display_color_profile_title">Fargeskala og kontrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Profesjonell modus</string>
+    <string name="live_display_color_profile_sony_professional_summary">Bruk sRGB-fargeskala for autentisk visning av farger</string>
+    <string name="live_display_color_profile_sony_standard_title">Standardmodus</string>
+    <string name="live_display_color_profile_sony_standard_summary">Bruk den strålende fargeskalaen TRILUMINOS™ Display for mobile for lyssterke, levende fargeeffekter</string>
+    <string name="live_display_color_profile_sony_vivid_title">Superlivlig-modus</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Bruk en enda mer levende fargeskala for visning av lyssterke fargeeffekter</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Nøyaktige farger og lyse hvitfarger</string>
     <string name="live_display_color_profile_natural_title">Naturlig</string>
@@ -112,8 +118,8 @@
     <string name="live_display_color_profile_srgb_summary">Farger nøyaktige i forhold til fargerommet sRGB</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
     <string name="live_display_color_profile_dci_p3_summary">Farger nøyaktige i forhold til fargerommet DCI-P3</string>
-    <string name="color_calibration_title">Fargekalibrering</string>
-    <string name="color_calibration_summary">Kalibrere skjermens farger</string>
+    <string name="color_calibration_title">Hvitbalanse</string>
+    <string name="color_calibration_summary">Juster hvitbalansen på skjermen</string>
     <string name="color_red_title">Rød</string>
     <string name="color_green_title">Grønn</string>
     <string name="color_blue_title">Blå</string>

@@ -100,7 +100,7 @@
     <string name="led_notification_text">შუქდიოდის ნათება ჩართულია პარამეტრებიდან</string>
     <string name="notification_light_add_apps_empty_summary">თითოეული აპის მიხედვით სამართავად აამოქმედეთ „%1$s“ და დააჭირეთ „დამატებას“</string>
     <string name="live_display_summary">ეკრანის განათების შერჩევა, დღე-ღამისა და გარემო პირობების მიხედვით, კითხვადობის გასაუმჯობესებლად და თვალების გადაღლის შესამცირებლად</string>
-    <string name="live_display_mode">ჩვენების რეჟიმი</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">ფერების ტემპერატურა</string>
     <string name="live_display_color_temperature_summary">დღე: <xliff:g id="day_temperature">%1$d</xliff:g>K ღამე: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">მორგება ენერგიის უმცირესი მოხმარებისთვის, ჩვენების გაუარესების გარეშე.</string>
     <string name="live_display_enhance_color_title">გაუმჯობესებული ფერები</string>
     <string name="live_display_enhance_color_summary">გაუმჯობესებული შეფერილობა კანისთვის, ხედებისა და სხვა სახის სურათებისთვის</string>
-    <string name="live_display_color_profile_title">ფერების პროფილი</string>
+    <string name="live_display_color_profile_title">ფერები და კონტრასტი</string>
+    <string name="live_display_color_profile_sony_professional_title">პროფესიული რეჟიმი</string>
+    <string name="live_display_color_profile_sony_professional_summary">გამოიყენეთ sRGB ფერთა გამა ავთენტური ფერების ეფექტისთვის</string>
+    <string name="live_display_color_profile_sony_standard_title">სტანდარტული რეჟიმი</string>
+    <string name="live_display_color_profile_sony_standard_summary">გამოიყენეთ TRILUMINOS™ Display for mobile-ის ბრწყინვალე ფერთა გამა კაშკაშა, ცოცხალი ფერების ეფექტისთვის</string>
+    <string name="live_display_color_profile_sony_vivid_title">სუპერ-დინამიური რეჟიმი</string>
+    <string name="live_display_color_profile_sony_vivid_summary">გამოიყენეთ ცოცხალ ფერთა გამა კაშკაშა ფერების ეფექტისთვის</string>
     <string name="live_display_color_profile_standard_title">ჩვეულებრივი</string>
     <string name="live_display_color_profile_standard_summary">ზუსტი ფერები და კაშკაშა სითეთრე</string>
     <string name="live_display_color_profile_natural_title">ბუნებრივი</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">ფერები მიახლოებული DCI-P3 ფერების სივრცესთან</string>
     <string name="live_display_reading_mode_title">საკითხავი რეჟიმი</string>
     <string name="live_display_reading_mode_summary">მონაცრისფრო რეჟიმი დიდხანს კითხვისთვის</string>
-    <string name="color_calibration_title">ფერების გასწორება</string>
-    <string name="color_calibration_summary">ეკრანზე ფერების გასწორება</string>
+    <string name="color_calibration_title">თეთრის ბალანსი</string>
+    <string name="color_calibration_summary">თეთრის ბალანსის დარეგულირება თქვენს ეკრანზე</string>
     <string name="color_red_title">წითელი</string>
     <string name="color_green_title">მწვანე</string>
     <string name="color_blue_title">ლურჯი</string>

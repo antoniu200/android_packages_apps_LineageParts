@@ -100,7 +100,7 @@
     <string name="led_notification_text">LED-verlichting ingeschakeld door instellingen</string>
     <string name="notification_light_add_apps_empty_summary">Om per-app beheer toe te voegen, activeer \'%1$s\' en klik op \'Toevoegen\'</string>
     <string name="live_display_summary">Uw scherm optimaliseren aan de hand van tijdstip op de dag en lichtomstandigheden om de leesbaarheid te verbeteren en oogvermoeidheid te verminderen</string>
-    <string name="live_display_mode">Weergavemodus</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Kleurtemperatuur</string>
     <string name="live_display_color_temperature_summary">Overdag: <xliff:g id="day_temperature">%1$d</xliff:g> K, \'s nachts: <xliff:g id="night_temperature">%2$d</xliff:g> K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g> K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Scherm aanpassen voor laagst mogelijke energieverbruik zonder kwaliteitsverlies</string>
     <string name="live_display_enhance_color_title">Kleuren verbeteren</string>
     <string name="live_display_enhance_color_summary">Kleurlevendigheid verbeteren van huidtinten, landschappen en andere afbeeldingen</string>
-    <string name="live_display_color_profile_title">Kleurprofiel</string>
+    <string name="live_display_color_profile_title">Kleurengamma en contrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Professionele modus</string>
+    <string name="live_display_color_profile_sony_professional_summary">Gebruik een sRGB kleurengamma voor authentieke kleuren</string>
+    <string name="live_display_color_profile_sony_standard_title">Standaardmodus</string>
+    <string name="live_display_color_profile_sony_standard_summary">Gebruik het heldere kleurengamma van TRILUMINOS™ Display for mobile voor heldere, levendige kleureffecten</string>
+    <string name="live_display_color_profile_sony_vivid_title">Superlevendige modus</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Gebruik een nog levendiger kleurengamma voor heldere kleureffecten</string>
     <string name="live_display_color_profile_standard_title">Standaard</string>
     <string name="live_display_color_profile_standard_summary">Nauwkeurige kleuren en heldere witwaarden</string>
     <string name="live_display_color_profile_natural_title">Natuurlijk</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Kleuren binnen het DCI-P3-kleurenpalet</string>
     <string name="live_display_reading_mode_title">Leesmodus</string>
     <string name="live_display_reading_mode_summary">Grijsschaalmodus voor langdurig lezen</string>
-    <string name="color_calibration_title">Kleuren kalibreren</string>
-    <string name="color_calibration_summary">Schermkleur kalibreren</string>
+    <string name="color_calibration_title">Witbalans</string>
+    <string name="color_calibration_summary">Pas de witbalans aan op uw beeldscherm</string>
     <string name="color_red_title">Rood</string>
     <string name="color_green_title">Groen</string>
     <string name="color_blue_title">Blauw</string>

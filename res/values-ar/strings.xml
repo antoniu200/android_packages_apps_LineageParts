@@ -83,7 +83,7 @@
     <string name="led_notification_title">إعدادات الإضاءة</string>
     <string name="led_notification_text">إضاءة الـ LED مفعلة من الإعدادات</string>
     <string name="live_display_summary">تحسين الشاشة استناداً إلى الوقت من اليوم والظروف المحيطة لتحسين قابلية القراءة وتقليل إجهاد العين</string>
-    <string name="live_display_mode">نمط العرض</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">درجة حرارة اللون</string>
     <string name="live_display_color_temperature_summary">النهار: <xliff:g id="day_temperature">%1$d</xliff:g>K  الليل: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -97,7 +97,13 @@
     <string name="live_display_low_power_summary">ضبط العرض لاستهلاك أقل للطاقة دون تشويش ما يُعرض</string>
     <string name="live_display_enhance_color_title">تحسين الألوان</string>
     <string name="live_display_enhance_color_summary">تحسين حيوية درجات ألوان البشرة والمشاهد الطبيعية وغيرها من الصور</string>
-    <string name="live_display_color_profile_title">الملف التعريفي للون</string>
+    <string name="live_display_color_profile_title">نطاق الألوان والحدة</string>
+    <string name="live_display_color_profile_sony_professional_title">الوضع الاحترافي</string>
+    <string name="live_display_color_profile_sony_professional_summary">استخدام نطاق الألوان sRGB حتى تبدو الألوان بشكلها الأصلي</string>
+    <string name="live_display_color_profile_sony_standard_title">الوضع القياسي</string>
+    <string name="live_display_color_profile_sony_standard_summary">استخدام نطاق الألوان TRILUMINOS™ Display for mobile حتى تبدو تأثيرات اللون زاهية وساطعة</string>
+    <string name="live_display_color_profile_sony_vivid_title">وضع \"زاهية للغاية\"</string>
+    <string name="live_display_color_profile_sony_vivid_summary">استخدام نطاق ألوان زاهيًا بشكل أكبر حتى تبدو تأثيرات الألوان أكثر سطوعًا</string>
     <string name="live_display_color_profile_standard_title">قياسي</string>
     <string name="live_display_color_profile_standard_summary">ألوان دقيقة وبياض ناصع</string>
     <string name="live_display_color_profile_natural_title">طبيعي</string>
@@ -122,8 +128,8 @@
     <string name="live_display_color_profile_dci_p3_summary">الألوان مضبوطة لألوان فضاء DCI-P3</string>
     <string name="live_display_reading_mode_title">وضع القراءة</string>
     <string name="live_display_reading_mode_summary">وضع التدرج الرمادي للقراءة على المدى الطويل</string>
-    <string name="color_calibration_title">معايرة الألوان</string>
-    <string name="color_calibration_summary">معايرة الألوان الظاهرة على الشاشة</string>
+    <string name="color_calibration_title">توازن الأبيض</string>
+    <string name="color_calibration_summary">اضبط توازن الأبيض على شاشتك</string>
     <string name="color_red_title">أحمر</string>
     <string name="color_green_title">أخضر</string>
     <string name="color_blue_title">أزرق</string>

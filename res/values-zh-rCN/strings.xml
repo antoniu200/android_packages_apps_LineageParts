@@ -100,7 +100,7 @@
     <string name="led_notification_text">LED 灯被“设置”启用</string>
     <string name="notification_light_add_apps_empty_summary">要添加对每个应用的控制，请先激活 \'%1$s\'，然后按 \'添加\'</string>
     <string name="live_display_summary">基于当前时间和环境条件来优化您的屏幕以改善可读性和减少视疲劳</string>
-    <string name="live_display_mode">显示模式</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">色温</string>
     <string name="live_display_color_temperature_summary">白天：<xliff:g id="day_temperature">%1$d</xliff:g>K 夜晚：<xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">在不降低亮度的情况下调整屏幕使耗电最低</string>
     <string name="live_display_enhance_color_title">增强色彩</string>
     <string name="live_display_enhance_color_summary">为肤色、风景和其他图像提升色彩饱和度</string>
-    <string name="live_display_color_profile_title">颜色配置文件</string>
+    <string name="live_display_color_profile_title">色域和对比度</string>
+    <string name="live_display_color_profile_sony_professional_title">专业模式</string>
+    <string name="live_display_color_profile_sony_professional_summary">使用sRGB色域以获得真实颜色外观</string>
+    <string name="live_display_color_profile_sony_standard_title">标准模式</string>
+    <string name="live_display_color_profile_sony_standard_summary">使用特丽魅彩移动显示技术的绚丽色域以获得明亮、鲜艳的色彩效果外观</string>
+    <string name="live_display_color_profile_sony_vivid_title">超逼真模式</string>
+    <string name="live_display_color_profile_sony_vivid_summary">使用更加鲜艳的色域以获得明亮的色彩效果外观</string>
     <string name="live_display_color_profile_standard_title">标准</string>
     <string name="live_display_color_profile_standard_summary">准确的颜色和明亮的白色</string>
     <string name="live_display_color_profile_natural_title">自然</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">色彩精确到 DCI-P3 的色彩空间</string>
     <string name="live_display_reading_mode_title">阅读模式</string>
     <string name="live_display_reading_mode_summary">适合长时间阅读的灰度模式</string>
-    <string name="color_calibration_title">颜色校准</string>
-    <string name="color_calibration_summary">校准屏幕颜色</string>
+    <string name="color_calibration_title">白平衡</string>
+    <string name="color_calibration_summary">调整显示屏幕的白平衡</string>
     <string name="color_red_title">红</string>
     <string name="color_green_title">绿</string>
     <string name="color_blue_title">蓝</string>

@@ -77,7 +77,7 @@
     <string name="led_notification_title">Ligte instellings</string>
     <string name="led_notification_text">LED liggie is deur instellings geaktiveer</string>
     <string name="live_display_summary">Optimaliseer jou skerm gebaseer op die tyd van die dag en die omringende omstandighede om leesbaarheid te verbeter en oogspanning te verminder</string>
-    <string name="live_display_mode">Skerm modus</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Kleurtemperatuur</string>
     <string name="live_display_color_temperature_summary">Dag: <xliff:g id="day_temperature">%1$d</xliff:g>K  Nag: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -89,7 +89,7 @@
     <string name="live_display_low_power_summary">Verstel skerm vir laagste kragverbruik sonder verswakking</string>
     <string name="live_display_enhance_color_title">Verbeter kleure</string>
     <string name="live_display_enhance_color_summary">Verbeter kleur impak van vlees toon, natuurskoon en ander beelde</string>
-    <string name="live_display_color_profile_title">Kleur profiel</string>
+
     <string name="live_display_color_profile_standard_title">Standaard</string>
     <string name="live_display_color_profile_standard_summary">Akkurate kleure en helder wit</string>
     <string name="live_display_color_profile_natural_title">Natuurlik</string>
@@ -112,8 +112,7 @@
     <string name="live_display_color_profile_srgb_summary">Kleure akkuraat tot die sRGB kleurruimte</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
     <string name="live_display_color_profile_dci_p3_summary">Kleure akkuraat tot die DCI-P3 kleur spektrum</string>
-    <string name="color_calibration_title">Kleur kalibrasie</string>
-    <string name="color_calibration_summary">Kalibreer skermkleure</string>
+
     <string name="color_red_title">Rooi</string>
     <string name="color_green_title">Groen</string>
     <string name="color_blue_title">Blou</string>

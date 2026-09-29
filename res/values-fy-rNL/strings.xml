@@ -81,7 +81,7 @@
     <string name="led_notification_title">Ferljochtingsynstellingen</string>
     <string name="led_notification_text">LED-ferljochting ynskeakele troch ynstellingen</string>
     <string name="live_display_summary">Jo skerm optimalisearje oan de hân fan aktuele tiid en ljochtomstannichheden om de lêsberheid te ferbetterjen en eachwurgens te ferminderjen</string>
-    <string name="live_display_mode">Werjeftemodus</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Kleurtemperatuer</string>
     <string name="live_display_color_temperature_summary">Oerdei: <xliff:g id="day_temperature">%1$d</xliff:g> K, nachts: <xliff:g id="night_temperature">%2$d</xliff:g> K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -93,7 +93,7 @@
     <string name="live_display_low_power_summary">Skerm oanpasse foar leechst mooglike enerzjyferbrûk sûnder kwaliteitsferlies</string>
     <string name="live_display_enhance_color_title">Kleuren ferbetterje</string>
     <string name="live_display_enhance_color_summary">Kleurlibbenens fan hûdtinten, lânskippen en oare ôfbyldingen ferbetterje</string>
-    <string name="live_display_color_profile_title">Kleurprofyl</string>
+
     <string name="live_display_color_profile_standard_title">Standert</string>
     <string name="live_display_color_profile_standard_summary">Sekuere kleuren en heldere wytwearden</string>
     <string name="live_display_color_profile_natural_title">Natuerlik</string>
@@ -118,8 +118,7 @@
     <string name="live_display_color_profile_dci_p3_summary">Kleuren binnen it DCI-P3-kleurepalet</string>
     <string name="live_display_reading_mode_title">Lêsmodus</string>
     <string name="live_display_reading_mode_summary">Griisskealmodus foar langduorjend lêze</string>
-    <string name="color_calibration_title">Kleuren kalibrearje</string>
-    <string name="color_calibration_summary">Skermkleur kalibrearje</string>
+
     <string name="color_red_title">Read</string>
     <string name="color_green_title">Grien</string>
     <string name="color_blue_title">Blau</string>

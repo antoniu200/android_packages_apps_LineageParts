@@ -100,7 +100,7 @@
     <string name="led_notification_text">Drita LED e aktivizuar nga parametrat</string>
     <string name="notification_light_add_apps_empty_summary">Për të shtuar kontrollin për aplikacion, aktivizoni \'%1$s\' dhe shtypni \'Shto\'</string>
     <string name="live_display_summary">Optimizo ekranin në bazë të orës së ditës dhe konditave të mjedisit për të përmirësuar lexueshmërinë dhe për të reduktuar lodhjen e syve</string>
-    <string name="live_display_mode">Profili i ekranit</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Temperatura e ngjyrave</string>
     <string name="live_display_color_temperature_summary">Ditën: <xliff:g id="day_temperature">%1$d</xliff:g>K Natën: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Rregullo ekranin për të mundësuar konsumimin më të ulët të energjisë pa degradim</string>
     <string name="live_display_enhance_color_title">Përmirëso ngjyrat</string>
     <string name="live_display_enhance_color_summary">Përmirëso gjallërinë e ngjyrave të tonit të lëkurës, peizazheve, dhe imazheve të tjera</string>
-    <string name="live_display_color_profile_title">Profili i ngjyrave</string>
+    <string name="live_display_color_profile_title">Spektri i ngjyr. dhe kontrasti</string>
+    <string name="live_display_color_profile_sony_professional_title">Regjimi profesional</string>
+    <string name="live_display_color_profile_sony_professional_summary">Përdorni spektrin e ngjyrave sRGB për një paraqitje të ngjyrave origjinale</string>
+    <string name="live_display_color_profile_sony_standard_title">Regjimi standard</string>
+    <string name="live_display_color_profile_sony_standard_summary">Përdorni spektrin e ndriçuar të ngjyrave të TRILUMINOS™ Display for mobile për paraqitjen e efekteve të ngjyrave të ndritshme dhe të gjalla</string>
+    <string name="live_display_color_profile_sony_vivid_title">Regjimi Plot jetë</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Përdorni një spektër ngjyrash edhe më të gjallë për paraqitjen e efekteve të ngjyrave të ndritshme</string>
     <string name="live_display_color_profile_standard_title">Standart</string>
     <string name="live_display_color_profile_standard_summary">Ngjyrat dhe ndriçimi i së bardhës janë të sakta</string>
     <string name="live_display_color_profile_natural_title">Natyral</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Ngjyrat e përafërta me hapësirën e ngjyrave DCI-P3</string>
     <string name="live_display_reading_mode_title">Mënyrë Leximi</string>
     <string name="live_display_reading_mode_summary">Model Bardhë e Zi për lexim të gjatë</string>
-    <string name="color_calibration_title">Kalibrimi i ngjyrave</string>
-    <string name="color_calibration_summary">Kalibro ngjyrat në ekran</string>
+    <string name="color_calibration_title">Balancë e së bardhës</string>
+    <string name="color_calibration_summary">Rregulloni balancën e së bardhës në ekranin tuaj</string>
     <string name="color_red_title">E kuqe</string>
     <string name="color_green_title">E gjelbër</string>
     <string name="color_blue_title">Blu</string>

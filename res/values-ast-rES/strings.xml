@@ -279,4 +279,5 @@
     <string name="sms_security_check_limit_summary">Les aplicaciones puen unviar %s mensaxes nun minutu enantes de riquir la confirmación</string>
     <string name="sms_security_check_limit_summary_none">Les aplicaciones nun tienen permisu pa unviar nengún mensaxe ensin la confirmación</string>
     <string name="sms_security_check_limit_always_confirm">Confirmar siempre</string>
+    <string name="live_display_mode">Assertive Display®</string>
 </resources>

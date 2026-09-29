@@ -112,4 +112,14 @@
     <string name="touchscreen_gesture_action_dialer">சுழற்றியைத் திறக்க</string>
     <string name="trust_feature_selinux">SEலினக்சு</string>
     <string name="sms_security_check_limit_always_confirm">எப்பொழுதும் உறுதி செய்க</string>
+    <string name="live_display_mode">Assertive Display®</string>
+    <string name="live_display_color_profile_title">நிற எல்லை மற். மாறுபா.</string>
+    <string name="live_display_color_profile_sony_professional_title">புரொஃபஷனல் பயன்முறை</string>
+    <string name="live_display_color_profile_sony_professional_summary">நம்பத்தகுந்த நிறத் தோற்றத்திற்கு sRGB நிற எல்லையைப் பயன்படுத்தவும்</string>
+    <string name="live_display_color_profile_sony_standard_title">நிலையான பயன்முறை</string>
+    <string name="live_display_color_profile_sony_standard_summary">பிரகாசமான, வண்ணமயமான நிற விளைவுகளுக்கு TRILUMINOS™ Display for mobile -இன் அட்டகாசமான நிற எல்லையைப் பயன்படுத்தவும்</string>
+    <string name="live_display_color_profile_sony_vivid_title">சூப்பர்-தெளிவு பயன்முறை</string>
+    <string name="live_display_color_profile_sony_vivid_summary">பிரகாசமான நிற விளைவுகளின் தோற்றத்திற்கு இன்னும் அதிக வண்ணமயமான நிற எல்லையைப் பயன்படுத்தவும்</string>
+    <string name="color_calibration_title">வெண்சமநிலை</string>
+    <string name="color_calibration_summary">உங்கள் டிஸ்பிளேயில் உள்ள வெண்சமநிலையை சரிசெய்யவும்</string>
 </resources>

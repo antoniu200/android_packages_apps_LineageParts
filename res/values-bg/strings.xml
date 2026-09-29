@@ -86,7 +86,7 @@
     <string name="led_notification_text">LED светлини, разрешени в настройките</string>
     <string name="notification_light_add_apps_empty_summary">За да добавите отделен контрол за приложение, активирайте \'%1$s\' и натиснете \'добави\' в лентата на менюто</string>
     <string name="live_display_summary">Оптимизира настройките на дисплея, въз основа на времето от деня и условията на околната среда за да се подобри четливостта и да намали умората на очите</string>
-    <string name="live_display_mode">Режим на екрана</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Температура на цвета</string>
     <string name="live_display_color_temperature_summary">Ден: <xliff:g id="day_temperature">%1$d </xliff:g> K нощ: <xliff:g id="night_temperature">%2$d </xliff:g> K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d </xliff:g> K</string>
@@ -100,7 +100,13 @@
     <string name="live_display_low_power_summary">Настройка на дисплея за ниска консумация на енергия без влошаване</string>
     <string name="live_display_enhance_color_title">Подобряване на цветовете</string>
     <string name="live_display_enhance_color_summary">Подобри цвета на скина, декора и други изображения</string>
-    <string name="live_display_color_profile_title">Цветови профил</string>
+    <string name="live_display_color_profile_title">Цветова гама и контраст</string>
+    <string name="live_display_color_profile_sony_professional_title">Професионален режим</string>
+    <string name="live_display_color_profile_sony_professional_summary">Използване на цветова гама sRGB за постигане на естествен вид на цветовете</string>
+    <string name="live_display_color_profile_sony_standard_title">Стандартен режим</string>
+    <string name="live_display_color_profile_sony_standard_summary">Използване на ярката цветова гама на TRILUMINOS™ Display for mobile за постигане на ярки, реалистични цветови ефекти</string>
+    <string name="live_display_color_profile_sony_vivid_title">Режим \"супер ярки\"</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Използване на още по-реалистична цветова гама за постигане на ярки цветови ефекти</string>
     <string name="live_display_color_profile_standard_title">Стандартен</string>
     <string name="live_display_color_profile_standard_summary">Точни цветове и ярки бели</string>
     <string name="live_display_color_profile_natural_title">Естествен</string>
@@ -125,8 +131,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Цветове, съответстващи за DCI-P3 цветово пространство</string>
     <string name="live_display_reading_mode_title">Режим на четене</string>
     <string name="live_display_reading_mode_summary">Сивото режим за продължително четене</string>
-    <string name="color_calibration_title">Калибриране на цвета</string>
-    <string name="color_calibration_summary">Калибриране на цветовете на екрана</string>
+    <string name="color_calibration_title">Баланс на белия цвят</string>
+    <string name="color_calibration_summary">Настройте баланса на белия цвят на вашия дисплей.</string>
     <string name="color_red_title">Червен</string>
     <string name="color_green_title">Зелен</string>
     <string name="color_blue_title">Син</string>

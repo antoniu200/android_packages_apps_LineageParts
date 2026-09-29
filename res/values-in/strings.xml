@@ -90,7 +90,7 @@
     <string name="led_notification_title">Pengaturan lampu</string>
     <string name="led_notification_text">Lampu LED diaktifkan oleh pengaturan</string>
     <string name="live_display_summary">Optimalkan layar berdasarkan waktu dan kondisi ruangan untuk meningkatkan keterbacaan dan mengurangi kelelahan mata</string>
-    <string name="live_display_mode">Mode tampilan</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Suhu pada warna</string>
     <string name="live_display_color_temperature_summary">Pagi: <xliff:g id="day_temperature">%1$d</xliff:g>K;  Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -104,7 +104,13 @@
     <string name="live_display_low_power_summary">Menyesuaikan tampilan untuk konsumsi daya terendah tanpa degradasi</string>
     <string name="live_display_enhance_color_title">Meningkatkan warna</string>
     <string name="live_display_enhance_color_summary">Meningkatkan vibran warna dari corak terang, pemandangan dan gambar lain</string>
-    <string name="live_display_color_profile_title">Profil warna</string>
+    <string name="live_display_color_profile_title">Julat warna dan kontras</string>
+    <string name="live_display_color_profile_sony_professional_title">Mode profesional</string>
+    <string name="live_display_color_profile_sony_professional_summary">Gunakan julat warna sRGB untuk tampilkan warna autentik</string>
+    <string name="live_display_color_profile_sony_standard_title">Mode standar</string>
+    <string name="live_display_color_profile_sony_standard_summary">Gunakan julat warna brilian dari TRILUMINOS™ Display for mobile untuk tampilkan yang cerah, efek warna hidup</string>
+    <string name="live_display_color_profile_sony_vivid_title">Mode super hidup</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Gunakan gamut warna yang lebih hidup untuk tampilan efek warna cerah</string>
     <string name="live_display_color_profile_standard_title">Standar</string>
     <string name="live_display_color_profile_standard_summary">Warna yang tepat dan putih terang</string>
     <string name="live_display_color_profile_natural_title">Alami</string>
@@ -129,8 +135,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Warna akurat ke ruang warna DCI-P3</string>
     <string name="live_display_reading_mode_title">Modus membaca</string>
     <string name="live_display_reading_mode_summary">Modus warna abu-abu untuk pembacaan jangka panjang</string>
-    <string name="color_calibration_title">Kalibrasi warna</string>
-    <string name="color_calibration_summary">Kalibrasi warna layar</string>
+    <string name="color_calibration_title">Keseimbangan putih</string>
+    <string name="color_calibration_summary">Sesuaikan Keseimbangan putih pada tampilan Anda</string>
     <string name="color_red_title">Merah</string>
     <string name="color_green_title">Hijau</string>
     <string name="color_blue_title">Biru</string>

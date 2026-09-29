@@ -100,7 +100,7 @@
     <string name="led_notification_text">設定によってLEDライトが有効になっています</string>
     <string name="notification_light_add_apps_empty_summary">アプリごとにコントロールするには、「%1$s」を有効にして「追加」を押してください。</string>
     <string name="live_display_summary">画面を見やすく、目の疲れを軽減するために、時間と周囲の環境に合わせて画面を最適化する</string>
-    <string name="live_display_mode">ディスプレイのモード</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">色温度</string>
     <string name="live_display_color_temperature_summary">昼: <xliff:g id="day_temperature">%1$d</xliff:g>K  夜: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">性能を低下させずにディスプレイを最低の消費電力に調整する</string>
     <string name="live_display_enhance_color_title">色を補正</string>
     <string name="live_display_enhance_color_summary">肌の色、風景や他の画像の色の鮮やかさを補正する</string>
-    <string name="live_display_color_profile_title">カラープロファイル</string>
+    <string name="live_display_color_profile_title">色域とコントラスト</string>
+    <string name="live_display_color_profile_sony_professional_title">プロフェッショナルモード</string>
+    <string name="live_display_color_profile_sony_professional_summary">sRGBの色域を使用します。オリジナルの色彩にこだわる人におすすめです。</string>
+    <string name="live_display_color_profile_sony_standard_title">スタンダードモード</string>
+    <string name="live_display_color_profile_sony_standard_summary">トリルミナス®ディスプレイ for mobileの鮮やかな色域を使用します。色鮮やかに見たい人におすすめです。</string>
+    <string name="live_display_color_profile_sony_vivid_title">ダイナミックモード</string>
+    <string name="live_display_color_profile_sony_vivid_summary">スタンダードモードより強調された色彩を使用します。より鮮やかな画面を好む人におすすめです。</string>
     <string name="live_display_color_profile_standard_title">標準</string>
     <string name="live_display_color_profile_standard_summary">正確な色と明るい白に補正します</string>
     <string name="live_display_color_profile_natural_title">自然</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">正確な DCI-P3 色空間に補正します</string>
     <string name="live_display_reading_mode_title">読書モード</string>
     <string name="live_display_reading_mode_summary">長期間読書するのに適した、グレースケールモードに変更します</string>
-    <string name="color_calibration_title">色の調整</string>
-    <string name="color_calibration_summary">画面の色を調整する</string>
+    <string name="color_calibration_title">ホワイトバランス</string>
+    <string name="color_calibration_summary">画面上のホワイトバランスを調整します</string>
     <string name="color_red_title">赤</string>
     <string name="color_green_title">緑</string>
     <string name="color_blue_title">青</string>

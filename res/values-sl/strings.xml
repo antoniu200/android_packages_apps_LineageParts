@@ -100,7 +100,7 @@
     <string name="led_notification_text">Lučka LED omogočena v nastavitvah</string>
     <string name="notification_light_add_apps_empty_summary">Za dodajanje nadzora za posamezno aplikacijo, omogočite »%1$s« in pritisnite »Dodaj«</string>
     <string name="live_display_summary">Optimiziranje zaslona glede na čas dneva in pogojev okolice, da se izboljša berljivost in zmanjša obremenitev oči</string>
-    <string name="live_display_mode">Način prikaza</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">Temperatura barve</string>
     <string name="live_display_color_temperature_summary">Dan: <xliff:g id="day_temperature">%1$d</xliff:g> K Noč: <xliff:g id="night_temperature">%2$d</xliff:g> K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g> K</string>
@@ -114,7 +114,13 @@
     <string name="live_display_low_power_summary">Prilagodi zaslon za najmanjšo porabo energije brez poslabšanja</string>
     <string name="live_display_enhance_color_title">Izboljšaj barve</string>
     <string name="live_display_enhance_color_summary">Izboljšaj dinamičnost barv tonov kože, pokrajine in drugih slik</string>
-    <string name="live_display_color_profile_title">Barvni profil</string>
+    <string name="live_display_color_profile_title">Barvna lestvica in kontrast</string>
+    <string name="live_display_color_profile_sony_professional_title">Profesionalni način</string>
+    <string name="live_display_color_profile_sony_professional_summary">Uporabite barvno lestvico sRGB za pristen videz barv</string>
+    <string name="live_display_color_profile_sony_standard_title">Standardni način</string>
+    <string name="live_display_color_profile_sony_standard_summary">Uporabite sijajno barvno lestvico tehnologije TRILUMINOS™ Display for mobile, ki omogoča videz s svetlimi in živahnimi barvnimi učinki</string>
+    <string name="live_display_color_profile_sony_vivid_title">Izjemno živahen način</string>
+    <string name="live_display_color_profile_sony_vivid_summary">Uporabite še bolj živahno barvno lestvico za videz svetlih barvnih učinkov</string>
     <string name="live_display_color_profile_standard_title">Običajen</string>
     <string name="live_display_color_profile_standard_summary">Natančne in svetlo bele barve</string>
     <string name="live_display_color_profile_natural_title">Naraven</string>
@@ -139,8 +145,8 @@
     <string name="live_display_color_profile_dci_p3_summary">Barve ustrezne DCI-P3 barvnemu prostoru</string>
     <string name="live_display_reading_mode_title">Način za branje</string>
     <string name="live_display_reading_mode_summary">Način sivine za dolgoročno branje</string>
-    <string name="color_calibration_title">Umerjanje barv</string>
-    <string name="color_calibration_summary">Umeri barve na zaslonu</string>
+    <string name="color_calibration_title">Ravnovesje beline</string>
+    <string name="color_calibration_summary">Prilagodite ravnovesje beline na zaslonu</string>
     <string name="color_red_title">Rdeča</string>
     <string name="color_green_title">Zelena</string>
     <string name="color_blue_title">Modra</string>

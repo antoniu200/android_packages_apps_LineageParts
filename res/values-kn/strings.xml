@@ -81,7 +81,7 @@
     <string name="led_notification_title">ಬೆಳಕಿನ ಆಯ್ಕೆಗಳು</string>
     <string name="led_notification_text">ಅಳವಡಿಕೆಯಿಂದ LED ಮಿಣುಕು ಸಶಕ್ತ</string>
     <string name="live_display_summary">ದಿನದ ಸಮಯ ಮತ್ತು ಪರಿಸರದ ಪರಿಸ್ಥಿತಿ ಆಧಾರಿಸಿ ನಿಮ್ಮ ಪರದೆಯನ್ನು ಉತ್ತಮವಾಗಿಸಿ ವಾಚನೀಯತೆ ಉತ್ತಮಗೊಳಿಸಿ ಕಣ್ಣಿನ ಆಯಾಸ ಕಡಿಮೆ ಮಾಡು</string>
-    <string name="live_display_mode">ಪ್ರದರ್ಶನ ರೀತಿ</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">ಬಣ್ಣದ ತಾಪಮಾನ</string>
     <string name="live_display_color_temperature_summary">ಹಗಲು: <xliff:g id="day_temperature">%1$d</xliff:g>K  ರಾತ್ರಿ: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -92,7 +92,13 @@
     <string name="live_display_low_power_title">ಶಕ್ತಿ ಬಳಕೆ ಕುಗ್ಗಿಸು</string>
     <string name="live_display_enhance_color_title">ಬಣ್ಣಗಳನ್ನು ವರ್ಧಿಸು</string>
     <string name="live_display_enhance_color_summary">ಚರ್ಮ ಛಾಯೆ, ದೃಶ್ಯಾವಳಿ, ಮತ್ತು ಇತರೆ ಚಿತ್ರಗಳ ಬಣ್ಣದ ಹೊಳಪನ್ನು ಉತ್ತಮಗೊಳಿಸು</string>
-    <string name="live_display_color_profile_title">ಬಣ್ಣದ ರೇಖಾಕೃತಿ</string>
+    <string name="live_display_color_profile_title">ಬಣ್ಣ ವ್ಯಾಪ್ತಿ ಕಾಂ.</string>
+    <string name="live_display_color_profile_sony_professional_title">ವೃತ್ತಿಪರ ಮೋಡ್</string>
+    <string name="live_display_color_profile_sony_professional_summary">ದೃಢೀಕೃತ ಬಣ್ಣದ ನೋಟಕ್ಕೆ sRGB ಬಣ್ಣ ವ್ಯಾಪ್ತಿ ಬಳಸಿ</string>
+    <string name="live_display_color_profile_sony_standard_title">ಪ್ರಮಾಣಿತ ಮೋಡ್</string>
+    <string name="live_display_color_profile_sony_standard_summary">ಪ್ರಕಾಶಮಾನ, ಉಜ್ವಲ ಬಣ್ಣದ ಪರಿಣಾಮಗಳಿಗೆ TRILUMINOS™ Display for mobile ನ ಆಕರ್ಷಣ ಬಣ್ಣದ ವ್ಯಾಪ್ತಿ ಬಳಸಿ</string>
+    <string name="live_display_color_profile_sony_vivid_title">ಉತ್ತಮ-ಸ್ಫುಟವಾದ ಮೋಡ್</string>
+    <string name="live_display_color_profile_sony_vivid_summary">ಪ್ರಕಾಶಮಾನ ಬಣ್ಣದ ಪರಿಣಾಮಗಳ ನೋಟಕ್ಕೆ ಇನ್ನೂ ಹೆಚ್ಚಿನ ಉಜ್ವಲ ಬಣ್ಣದ ವ್ಯಾಪ್ತಿ ಬಳಸಿ</string>
     <string name="live_display_color_profile_standard_title">ಪ್ರಮಾಣಿತ</string>
     <string name="live_display_color_profile_standard_summary">ನಿಖರ ಬಣ್ಣಗಳು ಮತ್ತು ಪ್ರಖರ ಬಿಳಿಗಳು</string>
     <string name="live_display_color_profile_natural_title">ನೈಸರ್ಗಿಕ</string>
@@ -117,8 +123,8 @@
     <string name="live_display_color_profile_dci_p3_summary">ಬಣ್ಣಗಳು DCI-P3 ಬಣ್ಣ ಜಗತ್ತಿಗೆ ಅನುಗುಣವಾಗಿವೆ</string>
     <string name="live_display_reading_mode_title">ಓದುವ ರೀತಿ</string>
     <string name="live_display_reading_mode_summary">ದೀರ್ಘಾವಧಿಯ ವಾಚನಕ್ಕೆ ಬೂದುಪೊರೆ ರೀತಿ</string>
-    <string name="color_calibration_title">ಬಣ್ಣ ಸರಿಹೊಂದಿಕೆ</string>
-    <string name="color_calibration_summary">ಪರದೆಯ ಬಣ್ಣಗಳನ್ನು ಸರಿಹೊಂದಿಸು</string>
+    <string name="color_calibration_title">ವೈಟ್ ಬ್ಯಾಲೆನ್ಸ್</string>
+    <string name="color_calibration_summary">ನಿಮ್ಮ ಪ್ರದರ್ಶನದಲ್ಲಿ ವೈಟ್ ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ಸರಿಹೊಂದಿಸಿ</string>
     <string name="color_red_title">ಕೆಂಪು</string>
     <string name="color_green_title">ಹಸಿರು</string>
     <string name="color_blue_title">ನೀಲಿ</string>

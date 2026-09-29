@@ -81,7 +81,7 @@
     <string name="led_notification_title">הגדרות נורית ההתראה</string>
     <string name="led_notification_text">נורית LED מופעלת בהגדרות</string>
     <string name="live_display_summary">התאם את מסך מכשירך בהתאם לשעה ולתנאי הסביבה על מנת לשפר את נוחות הקריאה ולהפחית את עייפות העין</string>
-    <string name="live_display_mode">מצב תצוגה</string>
+    <string name="live_display_mode">Assertive Display®</string>
     <string name="live_display_color_temperature_title">טמפרטורת צבע</string>
     <string name="live_display_color_temperature_summary">יום: <xliff:g id="day_temperature">%1$d</xliff:g>K לילה: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
@@ -93,7 +93,13 @@
     <string name="live_display_low_power_summary">התאם את התצוגה עבור צריכת האנרגיה הנמוכה ביותר ללא פגיעה באיכות</string>
     <string name="live_display_enhance_color_title">שפר צבעים</string>
     <string name="live_display_enhance_color_summary">שפר את רווית הצבעים של גווני עור, נופים וסוגי תמונות נוספים</string>
-    <string name="live_display_color_profile_title">פרופיל צבע</string>
+    <string name="live_display_color_profile_title">סולם צבעים וניגודיות</string>
+    <string name="live_display_color_profile_sony_professional_title">מצב מקצועי</string>
+    <string name="live_display_color_profile_sony_professional_summary">שימוש בסולם צבעים של sRGB למראה צבעים אותנטי</string>
+    <string name="live_display_color_profile_sony_standard_title">מצב רגיל</string>
+    <string name="live_display_color_profile_sony_standard_summary">שימוש בסולם צבעים בהירים של TRILUMINOS™ Display for mobile למראה של אפקטי צבע בהירים וחיים</string>
+    <string name="live_display_color_profile_sony_vivid_title">מצב חי במיוחד</string>
+    <string name="live_display_color_profile_sony_vivid_summary">שימוש בסולם צבעים חיים אפילו עוד יותר למראה של אפקטי צבע בהירים</string>
     <string name="live_display_color_profile_standard_title">רגיל</string>
     <string name="live_display_color_profile_standard_summary">צבעים מדויקים וגווני לבן בהירים</string>
     <string name="live_display_color_profile_natural_title">טבעי</string>
@@ -118,8 +124,8 @@
     <string name="live_display_color_profile_dci_p3_summary">דיוק צבעים למרחב הצבעים DCI-P3</string>
     <string name="live_display_reading_mode_title">מצב קריאה</string>
     <string name="live_display_reading_mode_summary">מסך בצבעי אפור לקריאה ארוכה</string>
-    <string name="color_calibration_title">כיול צבע</string>
-    <string name="color_calibration_summary">כיול צבעי מסך</string>
+    <string name="color_calibration_title">איזון לבן</string>
+    <string name="color_calibration_summary">כוונן את האיזון הלבן בתצוגה</string>
     <string name="color_red_title">אדום</string>
     <string name="color_green_title">ירוק</string>
     <string name="color_blue_title">כחול</string>
